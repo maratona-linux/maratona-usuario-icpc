@@ -8,9 +8,9 @@ Source: <https://github.com/maratona-linux/maratona-usuario-icpc>
 #   docs/source/javascripts/jquery-1.7.1.min.js
 
 Files: *
-Copyright: 2016-2023 Bruno César Ribas <bruno.ribas@unb.br>
+Copyright: 2016-2025 Bruno César Ribas <bruno.ribas@unb.br>
            2017 cassiopc <cassiopc@gmail.com>
-           2021-2023 Davi Antônio da Silva Santos <antoniossdavi@gmail.com>
+           2021-2025 Davi Antônio da Silva Santos <antoniossdavi@gmail.com>
            2020-2021 Guilherme Antonio Deusdará Banci <guibanci@gmail.com>
            2018 Wall Berg Morais <wallbergmirandamorais@gmail.com>
 License: GPL-2.0+
@@ -19,20 +19,8 @@ Files: editores-config/.m2/repository/org/jetbrains/annotations/13.0/*
 Copyright: 2013 JetBrains Team
 License: Apache-2.0
 
-Files: editores-config/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/1.6.10/*
-Copyright: 2021 Kotlin Team
-License: Apache-2.0
-
-Files: editores-config/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.6.10/*
-Copyright: 2021 Kotlin Team
-License: Apache-2.0
-
-Files: editores-config/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.10/*
-Copyright: 2021 Kotlin Team
-License: Apache-2.0
-
-Files: editores-config/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.10/*
-Copyright: 2021 Kotlin Team
+Files: editores-config/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/2.1.10/*
+Copyright: 2025 Kotlin Team
 License: Apache-2.0
 
 License: GPL-2.0+
