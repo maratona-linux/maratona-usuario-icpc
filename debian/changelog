@@ -1,3 +1,13 @@
+maratona-usuario-icpc (20250502) noble; urgency=medium
+
+  * Replace Kotlin 1.9.0 with 2.1.0
+  * Update CLion configuration from 2023.2 to 2024.3
+  * Update IntelliJ configuration from 2023.2 to 2024.3
+  * Update PyCharm configuration from 2023.2 to 2024.3
+  * Update copyright file
+
+ -- Davi Antônio da Silva Santos <antoniossdavi@gmail.com>  Fri, 02 May 2025 22:42:56 -0300
+
 maratona-usuario-icpc (20240530) noble; urgency=medium
 
   * Migrate package to Ubuntu noble 24.04
